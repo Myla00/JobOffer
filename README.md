@@ -1,3 +1,3 @@
 ## Job Offer
 
-This is a repo specifically made to put my research on Labor Codes in the Philippines
+This is a repo specifically made to store all my notes and research related to the company.
