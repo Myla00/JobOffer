@@ -1,1 +1,0 @@
-Training Materials for Agile
